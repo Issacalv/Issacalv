@@ -11,7 +11,9 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 - **Fusion360 + Python**
   - **Github Repo** [Fusion360API-Projects](https://github.com/Issacalv/Fusion360API-Projects)
 - **Labelimg + YOLO Tutorial**
-  - **Github Repo** [ Labelimg-YOLO_Ultralytics-Setup](https://github.com/Issacalv/Labelimg-YOLO_Ultralytics-Setup)
+  - **Github Repo** [Labelimg-YOLO_Ultralytics-Setup](https://github.com/Issacalv/Labelimg-YOLO_Ultralytics-Setup)
+- **Facial Recognition**
+  - **Github Repo** [Facial Recognition](https://github.com/Issacalv/FacialRecognition)
 
 
 ---
