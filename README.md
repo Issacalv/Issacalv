@@ -81,7 +81,13 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🐛 **Worminator** | Payload system for ARC 2025 competition; Camera & Environmental Sensor Datalogger | <a href="https://github.com/Issacalv/ARC2025_Payload"><img src="https://img.shields.io/badge/Repo-ARC2025__Payload-red?style=flat-square&logo=github"></a> |
+| **Worminator Payload** | Payload system for ARC 2025 competition; Camera & Environmental Sensor Datalogger | <a href="https://github.com/Issacalv/ARC2025_Payload"><img src="https://img.shields.io/badge/Repo-ARC2025__Payload-red?style=flat-square&logo=github"></a> |
+| **BioDOOM Payload** | Payload system for ARC 2024 competition; MFC-powered autonomous DOOM player with environmental datalogging | <a href="https://github.com/Issacalv/ARC2024_Payload"><img src="https://img.shields.io/badge/Repo-ARC2024__Payload-green?style=flat-square&logo=github"></a> |
+| **MFC Research Payload** | Payload system for ARC 2023 competition; Microbial Fuel Cell electricity-production study with environmental & kinetic datalogging | <a href="https://github.com/Issacalv/ARC2023_Payload"><img src="https://img.shields.io/badge/Repo-ARC2023__Payload-purple?style=flat-square&logo=github"></a> |
+| **Dampening Payload** | Payload system for ARC 2022 competition; Active, Semi-Active, and Passive Dampening System for SAC | <a href="https://github.com/Issacalv/ARC2022_Payload"><img src="https://img.shields.io-badge/Repo-ARC2022__Payload-blue?style=flat-square&logo=github"></a> |
+
+
+
 
 ---
 
