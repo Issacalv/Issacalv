@@ -68,65 +68,58 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 
 ## 💻 Personal Projects
 
-- **Fusion360 + Python**
-  - **Github Repo** [Fusion360API-Projects](https://github.com/Issacalv/Fusion360API-Projects)
-- **Labelimg + YOLO Tutorial**
-  - **Github Repo** [Labelimg-YOLO_Ultralytics-Setup](https://github.com/Issacalv/Labelimg-YOLO_Ultralytics-Setup)
-- **Facial Recognition**
-  - **Github Repo** [Facial Recognition](https://github.com/Issacalv/FacialRecognition)
-
+| Project | Description | Link |
+|--------|-------------|------|
+| 🛠️ **Fusion360 + Python** | CAD automation scripts and tools for Fusion360. | <a href="https://github.com/Issacalv/Fusion360API-Projects"><img src="https://img.shields.io/badge/Repo-Fusion360API--Projects-blue?style=flat-square&logo=github"></a> |
+| 🏷️ **Labelimg + YOLO Tutorial** | Guide for dataset labeling + YOLO training setup. | <a href="https://github.com/Issacalv/Labelimg-YOLO_Ultralytics-Setup"><img src="https://img.shields.io/badge/Repo-Labelimg--YOLO_Ultralytics--Setup-green?style=flat-square&logo=github"></a> |
+| 😀 **Facial Recognition** | Face detection & recognition pipeline for images and video. | <a href="https://github.com/Issacalv/FacialRecognition"><img src="https://img.shields.io/badge/Repo-FacialRecognition-purple?style=flat-square&logo=github"></a> |
 
 ---
 
-## 🤝 Club Projects
+## 🤝 Club Projects  
+### Aeronautics & Rocketry Club
 
-### Aeronautics and Rocketry Club
-
-- **Worminator**
-  - **Github Repo** [ARC2025_Payload](https://github.com/Issacalv/ARC2025_Payload)
+| Project | Description | Link |
+|--------|-------------|------|
+| 🐛 **Worminator** | Payload system for ARC 2025 competition; Camera & Environmental Sensor Datalogger | <a href="https://github.com/Issacalv/ARC2025_Payload"><img src="https://img.shields.io/badge/Repo-ARC2025__Payload-red?style=flat-square&logo=github"></a> |
 
 ---
-
 
 ## 🔬 Research Projects
-### Masters Research
-- **Medical Visual Question and Answering**
-  - **Github Repo:** [IndependentStudy25_VQA](https://github.com/Issacalv/IndependentStudy25_VQA)
 
-### Medical Device Innovations Lab
-- **Test Bench**  
-  - **GitHub Repo:** [MDILab_NETS_TestBench](https://github.com/Issacalv/MDILab_NETS_TestBench)
+### 🎓 Masters Research
 
-- **Thermometry Device**  
-  - **GitGitHub Repo:** [MDILab_ThermometryDevice](https://github.com/Issacalv/MDILab_ThermometryDevice)
-
-- **Thermocouple Datalogger**  
-  - **GitHub Repo:** [MDILab_ThermocoupleDatalogger](https://github.com/Issacalv/MDILab_ThermocoupleDatalogger)
-
-- **Telescoping Structures**  
-  - **GitHub Repo:** [MDILab_TelescopingStructures](https://github.com/Issacalv/MDILab_TelescopingStructures)
-
-- **HTML Parser**  
-  - **GitHub Repo:** [MDILab_HTML_Parser](https://github.com/Issacalv/MDILab_HTML_Parser)
-
-
+| Project | Description | Link |
+|--------|-------------|------|
+| 🧠 **Medical VQA** | Multimodal AI for medical imaging Q&A. | <a href="https://github.com/Issacalv/IndependentStudy25_VQA"><img src="https://img.shields.io/badge/Repo-IndependentStudy25__VQA-orange?style=flat-square&logo=github"></a> |
 
 ---
 
-## 🎓 Class Projects
+### 🧪 Medical Device Innovations Lab
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🔌 **Test Bench** | A unified test bench system that records pressure, annotates and captures video, controls syringe-pump actuation, and logs all experimental data automatically. | <a href="https://github.com/Issacalv/MDILab_NETS_TestBench"><img src="https://img.shields.io/badge/Repo-NETS__TestBench-blue?style=flat-square&logo=github"></a> |
+| 🌡️ **Thermometry Device** | A Raspberry Pi–powered thermometry device for precise, noninvasive measurement of tympanic membrane temperature. | <a href="https://github.com/Issacalv/MDILab_ThermometryDevice"><img src="https://img.shields.io/badge/Repo-ThermometryDevice-green?style=flat-square&logo=github"></a> |
+| 🔥 **Thermocouple Datalogger** | Labview datalogger for thermocouple sensor systems | <a href="https://github.com/Issacalv/MDILab_ThermocoupleDatalogger"><img src="https://img.shields.io/badge/Repo-Datalogger-yellow?style=flat-square&logo=github"></a> |
+| 📏 **Telescoping Structures** | Guide for extendable mechanical structures in Unity. | <a href="https://github.com/Issacalv/MDILab_TelescopingStructures"><img src="https://img.shields.io/badge/Repo-TelescopingStructures-purple?style=flat-square&logo=github"></a> |
+| 🕸️ **HTML Parser** | Parser for extracting structured data from HTML. | <a href="https://github.com/Issacalv/MDILab_HTML_Parser"><img src="https://img.shields.io/badge/Repo-HTML__Parser-pink?style=flat-square&logo=github"></a> |
 
 ---
 
 ## 🏆 Awards
-List notable awards, scholarships, or recognitions.
 
-- **Viva Science 2nd Place Poster Winner** — Generative image translation to map OCT images into Histology | UT Health San Antonio
-- **Electrical and Computer Engineering Student Award (1st Place)** — Microcomputer Systems 1 | UT San Antonio
+| Award | Issuer | Description |
+|-------|--------|-------------|
+| **Viva Science SA – 2nd Place Poster Winner** | UT Health San Antonio | Generative image translation research mapping OCT images to histology. |
+| **Electrical & Computer Engineering Student Award – 1st Place** | UT San Antonio | Recognized for top performance in Microcomputer Systems I. |
 
+---
 
 ## 📫 Contact
 - **Email:** Issacalv@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/issacalv](#)
 
 Thanks for stopping by! 🚀
+
 
