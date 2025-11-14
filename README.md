@@ -73,6 +73,8 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 | 🛠️ **Fusion360 + Python** | CAD automation scripts and tools for Fusion360. | <a href="https://github.com/Issacalv/Fusion360API-Projects"><img src="https://img.shields.io/badge/Repo-Fusion360API--Projects-blue?style=flat-square&logo=github"></a> |
 | 🏷️ **Labelimg + YOLO Tutorial** | Guide for dataset labeling + YOLO training setup. | <a href="https://github.com/Issacalv/Labelimg-YOLO_Ultralytics-Setup"><img src="https://img.shields.io/badge/Repo-Labelimg--YOLO_Ultralytics--Setup-green?style=flat-square&logo=github"></a> |
 | 😀 **Facial Recognition** | Face detection & recognition pipeline for images and video. | <a href="https://github.com/Issacalv/FacialRecognition"><img src="https://img.shields.io/badge/Repo-FacialRecognition-purple?style=flat-square&logo=github"></a> |
+| 🏃 **Weight Prediction Model** | Machine learning model predicting weight using continuous features. | <a href="https://github.com/Issacalv/Weight_Prediction"><img src="https://img.shields.io/badge/Repo-Weight__Prediction-red?style=flat-square&logo=github"></a> |
+
 
 ---
 
@@ -84,7 +86,8 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 | **Worminator Payload** | Payload system for ARC 2025 competition; Camera & Environmental Sensor Datalogger | <a href="https://github.com/Issacalv/ARC2025_Payload"><img src="https://img.shields.io/badge/Repo-ARC2025__Payload-red?style=flat-square&logo=github"></a> |
 | **BioDOOM Payload** | Payload system for ARC 2024 competition; MFC-powered autonomous DOOM player with environmental datalogging | <a href="https://github.com/Issacalv/ARC2024_Payload"><img src="https://img.shields.io/badge/Repo-ARC2024__Payload-green?style=flat-square&logo=github"></a> |
 | **MFC Research Payload** | Payload system for ARC 2023 competition; Microbial Fuel Cell electricity-production study with environmental & kinetic datalogging | <a href="https://github.com/Issacalv/ARC2023_Payload"><img src="https://img.shields.io/badge/Repo-ARC2023__Payload-purple?style=flat-square&logo=github"></a> |
-| **Dampening Payload** | Payload system for ARC 2022 competition; Active, Semi-Active, and Passive Dampening System for SAC | <a href="https://github.com/Issacalv/ARC2022_Payload"><img src="https://img.shields.io-badge/Repo-ARC2022__Payload-blue?style=flat-square&logo=github"></a> |
+| **Dampening Payload** | Payload system for ARC 2022 competition; Active, Semi-Active, and Passive Dampening System for SAC | <a href="https://github.com/Issacalv/ARC2022_Payload"><img src="https://img.shields.io/badge/Repo-ARC2022__Payload-blue?style=flat-square&logo=github"></a> |
+
 
 
 
