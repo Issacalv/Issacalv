@@ -116,6 +116,14 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 
 ---
 
+## 🎓 Class Projects
+
+| Project | Description | Semester | Link |
+|--------|-------------|----------|------|
+| 🏀 **XAI NBA Injury Prediction Model** | Explainable AI system using XGBoost, SHAP, and LIME to predict NBA player injury severity using real 2024–2025 season data. Combines injury logs, game statistics, and biometric features to produce interpretable risk profiles for coaching and sports analytics. | **MS AI – Spring 2025** | <a href="https://github.com/Issacalv/UTSA_XAI_NBAInjuries"><img src="https://img.shields.io/badge/Repo-UTSA__XAI__NBAInjuries-red?style=flat-square&logo=github"></a> |
+
+
+
 ## 🏆 Awards
 
 | Award | Issuer | Description |
