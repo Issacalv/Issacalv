@@ -121,6 +121,8 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 | Project | Description | Semester | Link |
 |--------|-------------|----------|------|
 | 🏀 **XAI NBA Injury Prediction Model** | Explainable AI system using XGBoost, SHAP, and LIME to predict NBA player injury severity using real 2024–2025 season data. Combines injury logs, game statistics, and biometric features to produce interpretable risk profiles for coaching and sports analytics. | **MS AI – Spring 2025** | <a href="https://github.com/Issacalv/UTSA_XAI_NBAInjuries"><img src="https://img.shields.io/badge/Repo-UTSA__XAI__NBAInjuries-red?style=flat-square&logo=github"></a> |
+| 🧬 **IVOCT-to-Histology cGAN Translation Model** | Medical image-to-image translation system using a conditional GAN to synthesize histology-like histology representations from IVOCT scans. Explores limitations of pix2pix for misaligned multimodal data, including mode collapse, alignment mismatch, and training instability. Supports improving diagnostic imaging while reducing invasive procedures. | **MS AI – Fall 2024** | <a href="https://sites.google.com/view/oct2hist"><img src="https://img.shields.io/badge/Project-oct2hist-blue?style=flat-square&logo=google"></a> |
+
 
 
 
