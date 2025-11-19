@@ -75,6 +75,8 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 | 😀 **Facial Recognition** | Face detection & recognition pipeline for images and video. | <a href="https://github.com/Issacalv/FacialRecognition"><img src="https://img.shields.io/badge/Repo-FacialRecognition-purple?style=flat-square&logo=github"></a> |
 | 🏃 **Weight Prediction Model** | Machine learning model predicting weight using continuous features. | <a href="https://github.com/Issacalv/Weight_Prediction"><img src="https://img.shields.io/badge/Repo-Weight__Prediction-red?style=flat-square&logo=github"></a> |
 | 🧠 **EEG Eye Classification** | Machine learning model predicting eye state (open/closed) using EEG data. | <a href="https://github.com/Issacalv/EEG_EyeClassification"><img src="https://img.shields.io/badge/Repo-EEG__EyeClassification-blue?style=flat-square&logo=github"></a> |
+| 🏡 **Airbnb Revenue Predictor** | Machine learning model for predicting Airbnb listing revenue. | <a href="https://github.com/Issacalv/Airbnb_RevenuePredictor"><img src="https://img.shields.io/badge/Repo-Airbnb__RevenuePredictor-orange?style=flat-square&logo=github"></a> |
+
 
 
 
