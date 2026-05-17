@@ -102,7 +102,8 @@ Below is a **curated overview of my work**, featuring **projects, research explo
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧠 **Medical VQA** | Multimodal AI for medical imaging Q&A. | <a href="https://github.com/Issacalv/IndependentStudy25_VQA"><img src="https://img.shields.io/badge/Repo-IndependentStudy25__VQA-orange?style=flat-square&logo=github"></a> |
+| 🧠 **Medical VQA** | Multimodal AI for medical imaging Q&A. | <a href="https://issacalv.github.io/Medic-Public-Demo"><img src="https://img.shields.io/badge/Demo-Live%20Site-blue?style=flat-square&logo=github"></a> |
+
 
 ---
 
